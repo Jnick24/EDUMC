@@ -1,0 +1,25 @@
+Image Code: Offline
+
+Include the underscores!
+agent__
+alex___
+apple__
+balloon
+book___
+cake___
+carrot_
+cookie_
+fish___
+panda__
+pickaxe
+rail___
+sign___
+steve__
+bucket_
+
+Usage Directions:
+Type four of the words after the image code. Leave a space inbetween, and INCLUDE THE UNDERSCORES!
+Each word should be 7 characters long. If you mis-type this, it WILL NOT WORK.
+
+Example:
+Image Code: agent__ alex___ bucket_ steve__

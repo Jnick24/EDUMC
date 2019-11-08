@@ -1,0 +1,74 @@
+/* CSS */
+
+/* THIS ISN'T IT. DO NOT EDIT THIS. */
+
+summary {
+	color: purple;
+	size: 14px;
+}
+button {
+	background-color: blue;
+	border-radius: 3px;
+	border: blue;
+	color: white;
+	transition-duration: 0.4s;
+}
+button:hover {
+  background-color: #AAA;
+  color: black;
+}
+#update {
+	padding: 2px 30px;
+}
+#title {
+	position: -webkit-sticky;
+	position: sticky;
+	top: 0px;
+	color: purple;
+	background-color: #59ded3;
+	-webkit-animation: mymove 10s infinite;
+    animation: mymove 10s infinite;
+	text-align: center;
+	padding-top: 10px;
+}
+#img1 {
+	display: inline;
+}
+#img2 {
+	display: inline;
+}
+#img3 {
+	display: inline;
+}
+#img4 {
+	display: inline;
+}
+#topleft {
+	position: absolute;
+	top: 2px;
+	left: 2px;
+	size: 50%;
+}
+body {
+    background: #59ded3;
+    -webkit-animation: mymove 10s infinite;
+    animation: mymove 10s infinite;
+	text-align: center;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 15px;
+}
+p {
+	color: purple;
+	size: 14px;
+	font-family: "Arial", Helvetica, sans-serif;
+}
+@-webkit-keyframes mymove {
+    50% {
+        background-color: #51c9c0;
+    }
+}
+@keyframes mymove {
+    50% {
+        background-color: #51c9c0;
+    }
+}
